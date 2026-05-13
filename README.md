@@ -39,4 +39,5 @@ Built a healthcare analytics dashboard using Excel, SQL, and Power Query to anal
 - Dashboard Screenshot
 
 ## Dashboard Preview
-https://www.linkedin.com/in/manvendra-singh-hooda-114657210/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGsdWZXrMQomsd4PAOFejgQ%3D%3D
+
+
