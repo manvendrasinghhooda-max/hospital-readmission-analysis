@@ -37,6 +37,7 @@ Built a healthcare analytics dashboard using Excel, SQL, and Power Query to anal
 - Excel Dashboard Workbook
 - Dashboard PDF
 - Dashboard Screenshot
+- SQL Queries File
 
 ## Dashboard Preview
 ![Dashboard](https://github.com/manvendrasinghhooda-max/hospital-readmission-analysis/blob/main/hospital_dashboard.png?raw=true)
